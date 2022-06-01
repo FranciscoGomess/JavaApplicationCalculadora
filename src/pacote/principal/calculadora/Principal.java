@@ -49,6 +49,8 @@ public class Principal {
                     calc2 = in.nextDouble();
                     result = calc1 - calc2;
                     System.out.println("Resultado da operação = " + result);
+                    default
+                    System.out.println("Opção inválida!!");
             }
 
             System.out.println("\nDigite 1 para continuar ou 2 para sair: ");
